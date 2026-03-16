@@ -27,10 +27,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did 광주 로고",
       address:
-        "광주광역시 서구 상무대로 980 WYD 광주 교구대회 사무국",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "운영시간: 10:00 ~ 18:00",
+        "광주광역시 서구 월드컵4강로 139, 청소년센터",
+      email: "gjwyd2027@gmail.com",
+      phone: "062-380-2279",
+      hours: "운영시간: 월~금 9:30-18:00 (점심시간 12:30-13:30)",
       copyright: "Copyright ⓒ 광주대교구 All rights reserved",
     },
     slider: {
@@ -85,10 +85,10 @@ export const content = {
     footer: {
       logoAlt: "wyd did Gwangju logo",
       address:
-        "980, Sangmu-daero, Seo-gu, Gwangju, WYD Gwangju Diocesan Committee",
-      email: "qna.wyd.doc.icn@gmail.com",
-      phone: "032-765-6997",
-      hours: "Hours: 10:00 ~ 18:00",
+        "139, World Cup 4-gang-ro, Seo-gu, Gwangju, Youth Center",
+      email: "gjwyd2027@gmail.com",
+      phone: "062-380-2279",
+      hours: "Hours: Mon-Fri 9:30-18:00 (Lunch 12:30-13:30)",
       copyright: "Copyright ⓒ Archdiocese of Gwangju All rights reserved",
     },
     slider: {
