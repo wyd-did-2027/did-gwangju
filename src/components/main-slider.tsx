@@ -143,10 +143,10 @@ export default function MainSlider({ locale = "kr" }: { locale?: Locale }) {
     >
       <div className="flicking-camera">
         <Panel>
-          <SliderItem00 />
+          <SliderItem00 locale={locale} />
         </Panel>
         <Panel>
-          <SliderItem01 />
+          <SliderItem01 locale={locale} />
         </Panel>
       </div>
       <div
