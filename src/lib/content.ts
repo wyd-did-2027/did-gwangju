@@ -20,7 +20,7 @@ export const content = {
       ogLocale: "ko_KR",
     },
     header: {
-      logoAlt: "wyd did 광주 로고",
+      logoAlt: "wyd did 광주",
       nav: {
         home: "홈",
         calendar: "캘린더",
@@ -31,7 +31,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did 광주 로고",
+      logoAlt: "wyd did 광주",
       address:
         "광주광역시 서구 월드컵4강로 139, 청소년센터",
       email: "gjwyd2027@gmail.com",
@@ -78,7 +78,7 @@ export const content = {
       ogLocale: "en_US",
     },
     header: {
-      logoAlt: "wyd did Gwangju logo",
+      logoAlt: "wyd did Gwangju",
       nav: {
         home: "Home",
         calendar: "Calendar",
@@ -89,7 +89,7 @@ export const content = {
       },
     },
     footer: {
-      logoAlt: "wyd did Gwangju logo",
+      logoAlt: "wyd did Gwangju",
       address:
         "139, World Cup 4-gang-ro, Seo-gu, Gwangju, Youth Center",
       email: "gjwyd2027@gmail.com",
