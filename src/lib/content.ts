@@ -35,7 +35,7 @@ export const content = {
     footer: {
       logoAlt: "wyd did 광주",
       address:
-        "광주광역시 서구 월드컵4강로 139, 청소년센터",
+        "전남광주통합특별시 서구 월드컵4강로 139, 청소년센터",
       email: "gjwyd2027@gmail.com",
       phone: "062-380-2279",
       hours: "운영시간: 월~금 9:30-18:00 (점심시간 12:30-13:30)",
@@ -95,7 +95,7 @@ export const content = {
     footer: {
       logoAlt: "wyd did Gwangju",
       address:
-        "139, World Cup 4-gang-ro, Seo-gu, Gwangju, Youth Center",
+        "139, World Cup 4-gang-ro, Seo-gu, Jeonnam-Gwangju, Youth Center",
       email: "gjwyd2027@gmail.com",
       phone: "062-380-2279",
       hours: "Hours: Mon-Fri 9:30-18:00 (Lunch 12:30-13:30)",
